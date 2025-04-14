@@ -1,0 +1,11 @@
+id,nome,idade,genero,renda_mensal,possui_cartao_credito,contratou_emprestimo
+1,Ana,34,F,4500,Sim,Sim
+2,Bruno,25,M,2800,Nao,Nao
+3,Carla,45,F,5200,Sim,Sim
+4,Daniel,31,M,3000,Sim,Nao
+5,Elaine,29,F,4000,Nao,Sim
+6,Fabio,39,M,7000,Sim,Sim
+7,Gustavo,23,M,1500,Nao,Nao
+8,Heloisa,41,F,4800,Sim,Sim
+9,Ivan,37,M,6200,Sim,Nao
+10,Juliana,33,F,3300,Nao,Nao
